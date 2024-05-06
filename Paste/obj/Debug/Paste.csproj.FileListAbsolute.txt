@@ -1,0 +1,9 @@
+C:\Users\Jacky\git\Paste\Paste\bin\Debug\Paste.exe.config
+C:\Users\Jacky\git\Paste\Paste\bin\Debug\Paste.exe
+C:\Users\Jacky\git\Paste\Paste\bin\Debug\Paste.pdb
+C:\Users\Jacky\git\Paste\Paste\obj\Debug\Paste.csproj.AssemblyReference.cache
+C:\Users\Jacky\git\Paste\Paste\obj\Debug\Paste.Properties.Resources.resources
+C:\Users\Jacky\git\Paste\Paste\obj\Debug\Paste.csproj.GenerateResource.cache
+C:\Users\Jacky\git\Paste\Paste\obj\Debug\Paste.csproj.CoreCompileInputs.cache
+C:\Users\Jacky\git\Paste\Paste\obj\Debug\Paste.exe
+C:\Users\Jacky\git\Paste\Paste\obj\Debug\Paste.pdb
